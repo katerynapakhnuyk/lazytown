@@ -1,0 +1,20 @@
+<project name="Lab_2" default="doc" basedir=".">
+    <!-- Визначаємо змінні для документації та вихідних файлів -->
+    <property name="doc" value="doc"/>
+    <property name="sourceDir" value="src"/>
+
+    <!-- Ціль для генерації JavaDoc -->
+    <target name="doc">
+
+        <!-- Створюємо директорію для JavaDoc -->
+        <mkdir dir="${doc}"/>
+
+        <!-- Генерація JavaDoc -->
+        <javadoc destdir="${doc}">
+
+            <!-- Визначаємо шлях до пакетів, які потрібно задокументувати -->
+            <fileset dir="${sourceDir}/main/java/org/example"/>
+
+        </javadoc>
+    </target>
+</project>

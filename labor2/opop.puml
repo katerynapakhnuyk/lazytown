@@ -1,0 +1,45 @@
+@startuml
+class org.example.Class1 {
++ void method1()
+}
+
+class org.example.Main {
++ {static} void main(String[])
+}
+
+interface org.example.Interface3 {
+~ void method3()
+}
+
+class org.example.Class2 {
+- Class3 class3
++ void method1()
++ void method2()
+}
+
+
+class org.example.Class3 {
+- Class1 class1
++ void method1()
++ void method2()
++ void method3()
+}
+
+
+interface org.example.Interface1 {
+~ void method1()
+}
+
+interface org.example.Interface2 {
+~ void method2()
+}
+
+
+
+org.example.Interface1 <|.. org.example.Class1
+org.example.Interface1 <|-- org.example.Interface3
+org.example.Interface2 <|.. org.example.Class2
+org.example.Interface3 <|.. org.example.Class3
+org.example.Class2 <|-- org.example.Class3
+org.example.Interface1 <|-- org.example.Interface2
+@enduml

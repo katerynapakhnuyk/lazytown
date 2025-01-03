@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: aliceblue;
+    text-align: center;
+
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+#product-list {
+    margin-bottom: 20px;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input, button {
+    padding: 10px;
+    font-size: 1rem;
+
+}

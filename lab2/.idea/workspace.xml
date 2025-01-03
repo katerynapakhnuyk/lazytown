@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd6c8521-beef-43ef-bc61-eb946493e691" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mqUSCHqoahAhIGzsfujn9Uucfh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.lab2 [clean].executor": "Run",
+    "Maven.lab2 [compile].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/heund/IdeaProjects/laba3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/heund/IdeaProjects/lab2/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\heund\IdeaProjects\lab2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd6c8521-beef-43ef-bc61-eb946493e691" name="Changes" comment="" />
+      <created>1727803600008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727803600008</updated>
+      <workItem from="1727803601075" duration="7461000" />
+      <workItem from="1727811942421" duration="9203000" />
+      <workItem from="1727859196201" duration="526000" />
+      <workItem from="1727859731646" duration="805000" />
+      <workItem from="1727860546900" duration="46000" />
+      <workItem from="1727860601643" duration="277000" />
+      <workItem from="1727860893673" duration="707000" />
+      <workItem from="1727861625315" duration="38000" />
+      <workItem from="1727861671453" duration="952000" />
+      <workItem from="1727862634639" duration="35000" />
+      <workItem from="1727862679495" duration="5228000" />
+      <workItem from="1727947179803" duration="7405000" />
+      <workItem from="1728051860104" duration="1217000" />
+      <workItem from="1728056601175" duration="240000" />
+      <workItem from="1728056847198" duration="17000" />
+      <workItem from="1728056870597" duration="133000" />
+      <workItem from="1728057010297" duration="68000" />
+      <workItem from="1728057083479" duration="13000" />
+      <workItem from="1728057102060" duration="107000" />
+      <workItem from="1728057217826" duration="2133000" />
+      <workItem from="1728059483304" duration="19000" />
+      <workItem from="1728059508602" duration="36000" />
+      <workItem from="1728059625846" duration="5000" />
+      <workItem from="1728157713824" duration="147000" />
+      <workItem from="1728569936862" duration="30000" />
+      <workItem from="1728625212243" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
